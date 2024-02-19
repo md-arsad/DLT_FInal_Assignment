@@ -1,7 +1,7 @@
 # DLT_FInal_Assignment
 open terminal and download this repoitory using the command
 ```
-git clone https://github.com/md-arsad/DeepLogic_Tech_Assignment.git
+git clone https://github.com/md-arsad/DLT_FInal_Assignment.git
 ```
 Go to DLT_FInal_Assignment folder using command 
 ``` cd DLT_FInal_Assignment```
